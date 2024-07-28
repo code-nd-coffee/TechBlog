@@ -34,17 +34,17 @@ To set up the project locally, follow these steps:
    git clone https://github.com/code-nd-coffee/TechBlog.git
 
 2. Import the project into your IDE:
-• Open your favorite IDE (Eclipse, IntelliJ IDEA, etc.)
-• Import the project as a Maven project.
+- Open your favorite IDE (Eclipse, IntelliJ IDEA, etc.)
+- Import the project as a Maven project.
 
 3. Configure the database:
-• Create a MySQL database named techblog.
-• Import the SQL schema from the database/schema.sql file.
-• Update the database configuration in the db.properties file located in the src/main/resources directory.
+- Create a MySQL database named techblog.
+- Import the SQL schema from the database/schema.sql file.
+- Update the database configuration in the db.properties file located in the src/main/resources directory.
 
 4. Build and run the project:
-• Use the Maven build tool to compile and package the project.
-• Deploy the project on a servlet container like Apache Tomcat.
+- Use the Maven build tool to compile and package the project.
+- Deploy the project on a servlet container like Apache Tomcat.
 
 Usage
 1. Open your web browser and navigate to http://localhost:8080/TechBlog.
@@ -65,11 +65,11 @@ Contributions are welcome! To contribute, follow these steps:
 
 ## Contact
 For any questions or inquiries, please contact:
-• Shivam Kumar
-• Phone: (+91) 6299288582
-• Email: shivam7266194@gmail.com
-• LinkedIn: linkedin.com/in/codencoffee
-• GitHub: github.com/code-nd-coffee
+- Shivam Kumar
+- Phone: (+91) 6299288582
+- Email: shivam7266194@gmail.com
+- LinkedIn: linkedin.com/in/codencoffee
+- GitHub: github.com/code-nd-coffee
 
 
 Make sure to adjust any specific details according to your project structure and files. This `README.md` provides a comprehensive overview of your TechBlog project, including setup instructions and contact information for potential contributors.
