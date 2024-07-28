@@ -53,7 +53,7 @@ Usage
 4. Interact with other users by liking and commenting on their posts.
 
 
-Contributing
+## Contributing
 Contributions are welcome! To contribute, follow these steps:
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
@@ -63,7 +63,7 @@ Contributions are welcome! To contribute, follow these steps:
 6. Open a pull request.
 
 
-Contact
+## Contact
 For any questions or inquiries, please contact:
 • Shivam Kumar
 • Phone: (+91) 6299288582
